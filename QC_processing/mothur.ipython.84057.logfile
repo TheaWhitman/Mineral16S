@@ -1,0 +1,53 @@
+Mac version
+
+Using ReadLine
+
+Running 64Bit Version
+
+mothur v.1.35.1
+Last updated: 3/31/2015
+
+by
+Patrick D. Schloss
+
+Department of Microbiology & Immunology
+University of Michigan
+pschloss@umich.edu
+http://www.mothur.org
+
+When using, please cite:
+Schloss, P.D., et al., Introducing mothur: Open-source, platform-independent, community-supported software for describing and comparing microbial communities. Appl Environ Microbiol, 2009. 75(23):7537-41.
+
+Distributed under the GNU General Public License
+
+Type 'help()' for information on the commands that are available
+
+Type 'quit()' to exit program
+Script Mode
+
+
+mothur > set.logfile(name=mothur.ipython.84057.logfile)
+
+mothur > #Started around 9:20AM, this time with 4 processors. Seems really slow, but...! 100k seqs / 30 min
+[ERROR]: You are missing (
+Invalid.
+
+mothur > #5h for 1M seqs, 20h for 4M seqs. So, it should be doable in a day or so.
+[ERROR]: You are missing (
+Invalid.
+
+mothur > # 600k at 12:20PM
+[ERROR]: You are missing (
+Invalid.
+
+mothur > align.seqs(candidate=../../SeqData/pear_merged-2015-06-30.assembled.crop.maxee.unique.fasta, template=../../SeqData/db/silva.total.filter.fasta, processors=4, flip=T)
+Unable to open ../../SeqData/pear_merged. It will be disregarded.
+Unable to open 2015. It will be disregarded.
+Unable to open 06. It will be disregarded.
+Unable to open 30.assembled.crop.maxee.unique.fasta. It will be disregarded.
+no valid files.
+
+Using 4 processors.
+[ERROR]: did not complete align.seqs.
+
+mothur > quit()
