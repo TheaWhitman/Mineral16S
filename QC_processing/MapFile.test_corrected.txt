@@ -1,0 +1,4 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	Trtmt	Description
+A1	TTTTTCTTTTTT		Big	whateverf
+B2	TACTTCGCTCGC		Big	a thing
+C3	ACAAGACCAGAA		Small	some stuff
