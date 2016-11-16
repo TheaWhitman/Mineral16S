@@ -6,11 +6,11 @@ min_consensus_fraction:0.51
 reference_sequences_fp:/opt/virt_env/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/rep_set/97_otus.fasta
 similarity:0.9
 unassignable_label:Unassigned
-Result path: /var/folders/d2/qqsv2qxd5fjf4k455pzytwgh0000gn/T/assign-taxugSNoD
+Result path: /var/folders/d2/qqsv2qxd5fjf4k455pzytwgh0000gn/T/assign-taxlYMp3W
 
 .uc file contents:
 
-# uclust --input ../data/MinRespOnly.fasta --id 0.9 --rev --maxaccepts 3 --allhits --libonly --lib /opt/virt_env/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/rep_set/97_otus.fasta --uc /var/folders/d2/qqsv2qxd5fjf4k455pzytwgh0000gn/T/UclustConsensusTaxonAssigner_ISJWkn.uc
+# uclust --input ../data/MinRespOnly.fasta --id 0.9 --rev --maxaccepts 3 --allhits --libonly --lib /opt/virt_env/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/rep_set/97_otus.fasta --uc /var/folders/d2/qqsv2qxd5fjf4k455pzytwgh0000gn/T/UclustConsensusTaxonAssigner_OedI4G.uc
 # version=1.2.22
 # Tab-separated fields:
 # 1=Type, 2=ClusterNr, 3=SeqLength or ClusterSize, 4=PctId, 5=Strand, 6=QueryStart, 7=SeedStart, 8=Alignment, 9=QueryLabel, 10=TargetLabel
