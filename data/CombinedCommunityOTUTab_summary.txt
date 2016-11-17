@@ -1,0 +1,27 @@
+Num samples: 12
+Num observations: 1793
+Total count: 3681
+Table density (fraction of non-zero values): 0.093
+
+Counts/sample summary:
+ Min: 19.0
+ Max: 1246.0
+ Median: 115.000
+ Mean: 306.750
+ Std. dev.: 380.756
+ Sample Metadata Categories: None provided
+ Observation Metadata Categories: None provided
+
+Counts/sample detail:
+ 1_3: 19.0
+ 1_6: 45.0
+ 2_3: 52.0
+ 1_9: 55.0
+ Quartz: 58.0
+ 2_6: 107.0
+ Heavy: 123.0
+ 2_9: 193.0
+ 1_12: 273.0
+ Ferrihydrite: 640.0
+ Kaolinite: 870.0
+ 2_12: 1246.0
